@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.stream</groupId>
-	<artifactId>producer</artifactId>
+	<artifactId>consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>producer-service</name>
+	<name>consumer-service</name>
 	<description>Awesome consumer service</description>
 	<properties>
 		<java.version>17</java.version>
