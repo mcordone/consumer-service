@@ -10,7 +10,7 @@ import org.springframework.kafka.core.ProducerFactory;
 import java.util.HashMap;
 import java.util.Map;
 
-public class KafkaProducerConfig {
+public class KafkaConfig {
 
     @Bean
     public ProducerFactory<String, String> producerFactory() {
